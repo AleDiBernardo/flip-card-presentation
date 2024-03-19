@@ -1,0 +1,30 @@
+
+main {
+  width: 100%;
+  height: 100vh;
+}
+
+.ms_fs_80 {
+  font-size: 80px;
+}
+
+.ms_fs_65 {
+  font-size: 65px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: lightgreen;
+}
+
+.ms_bg_blue {
+  background-color: #0019ff;
+}
+
+.ms_border_green {
+  border-color: lightgreen !important;
+}
+
+i {
+  color: lightgreen;
+}
